@@ -1,0 +1,9 @@
+{
+  "name": "Aktivror",
+  "short_name": "Aktivror",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Aktivror",
+  "background_color": "#ffffff"
+}
