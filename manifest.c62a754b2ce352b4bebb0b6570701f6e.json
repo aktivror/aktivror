@@ -46,7 +46,7 @@
   "short_name": "Aktivror",
   "orientation": "portrait",
   "display": "standalone",
-  "start_url": ".",
+  "start_url": "/aktivror/#/bruker",
   "description": "Aktivror",
   "background_color": "#ffffff"
 }
