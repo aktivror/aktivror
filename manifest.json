@@ -1,7 +1,7 @@
 {
     "name": "Aktivror",
     "short_name": "Aktivror",
-    "start_url": "index.html",
+    "start_url": "#/bruker",
     "display": "standalone",
     "theme_color": "#0476F2",
     "background_color": "#fff"
